@@ -1,5 +1,5 @@
 # Actux
-A Rshiny app visualising usage of lems on french newspaper, and the scrapper.
+A Rshiny app visualising usage of lems on french newspapers, and the scrapper doing the data collection.
 
 
 ## Scrapper
