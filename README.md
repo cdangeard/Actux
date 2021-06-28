@@ -18,7 +18,7 @@ And parsing and classification is done via spacy's fr_core_news_md
 
 ## Rshiny APP
 
-Small Rshiny app.
+Small Rshiny app. hosted here for now: https://drimer.shinyapps.io/actux/
 
 One tab to visualize quatity of data
 
@@ -27,3 +27,5 @@ One tab to search for the apparence of a spécific lem
 I plan to add some stat about trending lemme
 
 And maybe one about entities.
+
+
