@@ -5,10 +5,15 @@ A Rshiny app visualising usage of lems on french newspaper, and the scrapper.
 ## Scrapper
 
 Based on Beautifullsoup.
+
 scrap 8 big frenchnewspaper websites: libération, leMonde, l'humanité, lesEchos, le figaro, nouvelObs, leparisien, laCroix
+
 The scrapper is deployed on a AWS ec2 programmed to run at 4am every day.
+
 Data are accecible on a public s3 bucket as a .csv.gz file. (please don't spam request on it i'm limited by free AWS plan)
+
 Lematization is done via spacy's french_lemmatizer
+
 And parsing and classification is done via spacy's fr_core_news_md
 
 ## Rshiny APP
@@ -16,7 +21,9 @@ And parsing and classification is done via spacy's fr_core_news_md
 Small Rshiny app.
 
 One tab to visualize quatity of data
+
 One tab to search for the apparence of a spécific lem
 
 I plan to add some stat about trending lemme
+
 And maybe one about entities.
