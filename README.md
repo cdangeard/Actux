@@ -18,7 +18,7 @@ And parsing and classification is done via spacy's fr_core_news_md
 
 ## Rshiny APP
 
-Small Rshiny app. ~~hosted here for now: https://drimer.shinyapps.io/actux/~~(not anymore)
+Small Rshiny app. ~~hosted here for now: https://drimer.shinyapps.io/actux/~~ (not anymore)
 
 One tab to visualize quatity of data
 
